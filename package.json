@@ -3,18 +3,17 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/scotch-io/node-token-authentication"
+    "url": "https://github.com/mason0958/node-example.git"
   },
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Chris Sevilleja <scotch.io>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "body-parser": "~1.0.1",
     "express": "~4.0.0",
     "mongoose": "~4.6.8",
-    "morgan": "~1.0.0",
-    "synaptic": "^1.0.11"
+    "morgan": "~1.0.0"
   }
 }
